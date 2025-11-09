@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawHook", "RawHook\RawHook.csproj", "{A2FF83BF-BB45-4526-8B49-FEE69DB2C099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawHook_ClientDemo", "RawHook_ClientDemo\RawHook_ClientDemo.csproj", "{E2B8E4AD-59C4-4ECD-8E8B-C45E6A2A06F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FF83BF-BB45-4526-8B49-FEE69DB2C099}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A2FF83BF-BB45-4526-8B49-FEE69DB2C099}.Debug|x64.Build.0 = Debug|Any CPU
+		{A2FF83BF-BB45-4526-8B49-FEE69DB2C099}.Release|x64.ActiveCfg = Release|Any CPU
+		{A2FF83BF-BB45-4526-8B49-FEE69DB2C099}.Release|x64.Build.0 = Release|Any CPU
+		{E2B8E4AD-59C4-4ECD-8E8B-C45E6A2A06F3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E2B8E4AD-59C4-4ECD-8E8B-C45E6A2A06F3}.Debug|x64.Build.0 = Debug|Any CPU
+		{E2B8E4AD-59C4-4ECD-8E8B-C45E6A2A06F3}.Release|x64.ActiveCfg = Release|Any CPU
+		{E2B8E4AD-59C4-4ECD-8E8B-C45E6A2A06F3}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8326699F-446E-495E-8B99-A1B3347F9840}
+	EndGlobalSection
+EndGlobal
